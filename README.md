@@ -6,9 +6,9 @@
   <h3>Senior Frontend Developer · React & UI Engineering</h3>
   <p>Crafting responsive interfaces, thoughtful user experiences, and modern web applications.</p>
   <a href="https://github.com/AbrarShami">GitHub</a> ·
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> ·
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> ·
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://www.linkedin.com/in/abrar07/">LinkedIn</a> ·
+  <a href="https://abrar-portfolio-pi.vercel.app/">Portfolio</a> ·
+  <a href="mailto:abrar.shami@hotmail.com">Email</a>
 </div>
 
 ---
@@ -20,8 +20,12 @@ I'm a frontend developer focused on building clean, responsive, and reliable web
 - Frontend development with **React, JavaScript, and TypeScript**
 - Modern UI development with **Next.js**
 - Responsive styling with **CSS, SCSS, Tailwind CSS, and Bootstrap**
-- Experience across e-commerce interfaces and production frontend workflows
+- Backend & Database with **Supabase, MongoDB**
+- Cloud & Deployment with **AWS S3, Amazon CloudFront, AWS IAM, AWS Amplify Hosting, Vercel**
+- Version Control & Collaboration with **Git, GitHub, Bitbucket, Jira, Confluence, Sourcetree**
+- Experience across e-commerce Platforms: **Microsoft Dynamics 365 Commerce (UI/Frontend Development), Salesforce Commerce Cloud (SFRA)**
 - Interested in accessibility, performance, design systems, and AI-assisted development
+
 
 ## Tech Stack
 
@@ -39,6 +43,8 @@ I'm a frontend developer focused on building clean, responsive, and reliable web
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS-Amazon_Web_Services-black?colorA=white&logoColor=232F3E&logo=amaz)
+[![Supabase](https://img.shields.io/badge/supabase-black?logo=supabase&style=for-the-badge)](https://supabase.com/)
 
 </div>
 
@@ -47,12 +53,20 @@ I'm a frontend developer focused on building clean, responsive, and reliable web
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://ad-spark-apply.vercel.app/">Ad Spark ↗</a></h3>
-      <p>A landing-page project focused on modern visual presentation and frontend layout.</p>
+      <h3><a href="https://perfume-store-jet.vercel.app/">ScentAura ↗</a></h3>
+      <p>A production-minded Next.js App Router starter for a perfume store, designed to connect to Supabase.</p>
     </td>
     <td width="50%">
-      <h3><a href="https://react-assignment-five-zeta.vercel.app/">React Theme Switcher ↗</a></h3>
-      <p>A React UI implementation featuring light and dark theme switching.</p>
+      <h3><a href="https://ai-quote.vercel.app/">AI Quote Generator↗</a></h3>
+      <p>This is a Next.js project bootstrapped with create-next-app.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://next-js-ecom-admin-amber.vercel.app/">NextJs-EcomAdmin ↗</a></h3>
+      <p>A production-minded Next.js App, designed to connect to MongDB.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://ad-spark-apply.vercel.app/">Ad Spark ↗</a></h3>
+      <p>A landing-page project focused on modern visual presentation and frontend layout.</p>
     </td>
   </tr>
 </table>
@@ -86,9 +100,9 @@ Frontend development work involving Microsoft Dynamics 365.
 
 <div align="center">
   <a href="https://github.com/AbrarShami">GitHub</a> ·
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> ·
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> ·
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://www.linkedin.com/in/abrar07/">LinkedIn</a> ·
+  <a href="https://abrar-portfolio-pi.vercel.app/">Portfolio</a> ·
+  <a href="mailto:abrar.shami@hotmail.com">Email</a>
   <br/><br/>
   <sub>Designed with clarity. Built with curiosity.</sub>
 </div>

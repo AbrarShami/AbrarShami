@@ -60,6 +60,8 @@ I'm a frontend developer focused on building clean, responsive, and reliable web
       <h3><a href="https://ai-quote.vercel.app/">AI Quote Generator↗</a></h3>
       <p>This is a Next.js project bootstrapped with create-next-app.</p>
     </td>
+    </tr>
+  <tr>
     <td width="50%">
       <h3><a href="https://next-js-ecom-admin-amber.vercel.app/">NextJs-EcomAdmin ↗</a></h3>
       <p>A production-minded Next.js App, designed to connect to MongDB.</p>
